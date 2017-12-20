@@ -246,6 +246,31 @@ p {
 .skillset .level-bar-inner {
   height: 12px;
 }
+
+.skills-container{
+  padding: 0 0 0 10px;
+  margin-bottom: 10px;
+  font-size: xx-small;
+}
+.skill-tag{
+  display: inline-block;
+  border: 0;
+  margin: 0 5px 5px 0;
+  padding: 5px;
+  font-size: 13px;
+  line-height: 17px;
+  color: #333333;
+  font-weight: normal;
+  background: #f1f1f1;
+  border-radius: 2px;
+  font-style: italic;
+}
+.skill-title{
+  background: #ffffff;
+  border-radius: 2px;
+  font-style: normal;
+}
+
 .footer {
   padding: 30px;
   padding-top: 60px;

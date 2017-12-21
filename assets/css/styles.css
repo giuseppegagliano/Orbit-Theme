@@ -192,7 +192,7 @@ p {
   top: -2px;
 }
 .main-wrapper .section {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
@@ -221,7 +221,7 @@ p {
 }
 .main-wrapper .project-title {
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 500;
   margin-top: 0;
   margin-bottom: 5px;
 }
@@ -229,7 +229,7 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+  margin-bottom: 35px;
 }
 .skillset .item {
   margin-bottom: 15px;
@@ -284,13 +284,6 @@ p {
   color: #fb866a;
 }
 
-/* ======== Theme ======== */
-  .sidebar-color {      background: #337ab7;  }
-  .text-color-dark {    color: #337ab7;  }
-  .icon-color {         background: #337ab7;  }
-  .level-bar-color {    background: #337ab7;  }
-
-
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .sidebar-wrapper {
@@ -328,3 +321,10 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+
+
+/* ======== Theme colors ======== */
+  .sidebar-color {      background: #337ab7;  }
+  .text-color-dark {    color: #337ab7;  }
+  .icon-color {         background: #337ab7;  }
+  .level-bar-color {    background: #337ab7;  }

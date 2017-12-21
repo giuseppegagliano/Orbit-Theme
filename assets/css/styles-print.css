@@ -19,12 +19,19 @@
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  }
   margin-top: 2cm;
   margin-right: 2cm;
   margin-bottom: 1.5cm;
   margin-left: 2cm
 
+  *, :after, :before {
+    color: unset;/* #000!important;*/
+    text-shadow: unset;/* none!important;*/
+    background: unset;/* 0 0!important;*/
+    -webkit-box-shadow: unset;/* none!important;*/
+    box-shadow: unset;/* none!important;*/
+  }
 
   h1,
   h2,
@@ -243,7 +250,7 @@
     overflow: hidden;
   }
   .skillset .level-title {
-    font-size: x-small;
+    font-size: small;
     font-style: italic;
     margin-top: 0;
     margin-bottom: 12px;

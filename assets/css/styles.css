@@ -231,6 +231,11 @@ p {
 .main-wrapper .projects-section .item {
   margin-bottom: 35px;
 }
+.skillset-1 {
+  float: left;
+width: 50%;
+margin-right: 1em;
+}
 .skillset .item {
   margin-bottom: 15px;
   overflow: hidden;
@@ -308,12 +313,14 @@ p {
   .skillset .level-title {
     display: inline-block;
     float: left;
-    width: 30%;
+    width: 50%;
     margin-bottom: 0;
+    text-align: end;
+    padding-right: 1em;
   }
   .skillset .level-bar {
     display: inline-block;
-    width: 70%;
+    width: 50%;
     float: left;
     position: relative;
     top: 1px;

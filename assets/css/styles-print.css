@@ -256,10 +256,10 @@
     margin-bottom: 12px;
   }
   .skillset .level-bar {
-    height: 12px;
+    height: 0px;
   }
   .skillset .level-bar-inner {
-    height: 12px;
+    height: 0px;
   }
 
   .skills-container{
